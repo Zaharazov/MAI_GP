@@ -10,7 +10,6 @@ public class PlayerMove : MonoBehaviour
     public float jumpForce = 10f;
     public float gravity = 25f;
     public Light[] spotlights; 
-    public LayerMask shadowLayer; 
     public ParticleSystem deathParticles; 
     public GameObject playerVisual;
 
